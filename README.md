@@ -8,4 +8,5 @@
   <a href="https://publons.com/researcher/3490516/ayixon-sanchez-reyes/">
   <img src="https://img.shields.io/badge/Publons-blue?logo=ORCID&logoColor=black&style=for-the-badge"/>
   </a>
-  </div>
+  </div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=ayixon&style=flat-square&color=blue" alt=""/>
