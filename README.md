@@ -10,3 +10,13 @@
   </a>
   </div id="badges">
   <img src="https://komarev.com/ghpvc/?username=ayixon&style=flat-square&color=blue" alt=""/>
+
+  # Brief Bio
+  
+  Microbiologist apprentice. Farmer by birth. I have seen the leaf and the stem of the cane, the coffee bean, since it is a white and aromatic flower bud. In biology, the Darwin of Shrewsbury and Cavalier-Smith. The mystery of the species in prokaryotes, its concepts and demarcations would make any biologist happy or miserable.
+
+The best story: "The immortal" (by Borges ...). The best novel: "100 years of solitude" (García Márquez)
+
+The best poem: ... I'm not so crazy to risk that answer; but once I told myself that Whitman in the North and Vallejo in the South. In the movies: Clint Eastwood. In music: EL SON ... the one that comes from Nené Manfugás.
+
+And of course, microbial taxonomy and metabolism of xenobiotics
